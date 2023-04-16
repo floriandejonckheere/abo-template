@@ -22,7 +22,7 @@ make words
 
 # License
 
-Logo: Copyright (C) University of Turku
+Logo: Copyright (C) Abo Akademi University
 
 Copyright (C) 2022 Florian Dejonckheere
 
